@@ -2,12 +2,9 @@
   "name": "tsnode-template",
   "version": "1.0.0",
   "description": "Template for NodeJS with Typescript projects",
-  "main": "./dist/index.js",
-  "module": "./dist/index.es.js",
-  "types":"./dist/index.d.ts",
-  "files": ["dist"],
   "repository": {
-    "type": "git"
+    "type": "git",
+    "directory": "https://github.com/teresaromero/tsnode-template"
   },
   "author": "Teresa Romero <hello@teresaromero.dev>",
   "license": "MIT",
